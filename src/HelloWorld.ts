@@ -1,3 +1,3 @@
 //Afficher "Hello, world" dans le console
-let message: String = "Hello, world";
-console.log(message);
+let message: string = "Hello, world!";
+console.log(message)
